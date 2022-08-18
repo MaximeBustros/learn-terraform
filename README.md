@@ -516,4 +516,4 @@ Ternary operator (Dynamic expressions)
 Sentinel
 --------
 
-Note: Sentinel policies are a paid feature, available as part of the Team & Governance upgrade package. Learn more about Terraform Cloud pricing here.
+Note: Sentinel policies are a paid feature, available as part of the Team & Governance upgrade package.
